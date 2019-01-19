@@ -1,0 +1,19 @@
+Aquí pondremos la lista de las especificaciones que queremos. Luego ya veremos qué es lo que podemos hacer y qué descartamos por dificultad, numero de entradas salidas, etc.
+
+- Entradas digitales a 24V para conectar directamente a salidas de PLC:
+Simulando un actuador de giro neumático con una válvula biestable: 
+  Una entrada para A+ y otra para A- si no está activadaniguna, se queda donde está
+Simulando un actuador de giro neumático con una válvula monoestable: 
+  Una entrada para A+ y si no está activada, A-
+
+- Entrada analógica:
+  Consigna de posición: de 0-10V ó 4-20mA para posicionar en un punto determinado
+  Velocidad de giro. Similar a los reguladores de un actuador neumático.
+    Regulación de avance
+    Regulación de retroceso
+  
+- Salida analógica
+  Para devolver la posición actual:
+    0-5V PWM filtrado con resistencia y condensador
+    0-5V con AD
+    0-10V con AD
