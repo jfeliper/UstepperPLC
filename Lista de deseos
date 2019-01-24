@@ -3,8 +3,13 @@ Aquí pondremos la lista de las especificaciones que queremos. Luego ya veremos 
 - Entradas digitales a 24V para conectar directamente a salidas de PLC:
 Simulando un actuador de giro neumático con una válvula biestable: 
   Una entrada para A+ y otra para A- si no está activadaniguna, se queda donde está
+  (leds?)
 Simulando un actuador de giro neumático con una válvula monoestable: 
   Una entrada para A+ y si no está activada, A-
+
+- Salidas digitales para indicar que ha llegado al destino
+24V
+leds?
 
 - Entrada analógica:
   Consigna de posición: de 0-10V ó 4-20mA para posicionar en un punto determinado
