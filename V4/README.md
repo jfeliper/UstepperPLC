@@ -11,8 +11,8 @@ Consta de las 2 placas que ya tenía ustepper v3:
     Habría que ver si se conectan desde la placa de abajo o se suben a la placa pololu de arriba.
     
    - pololu: aprovechando la cara inferior podría poner
+   
     - dos optoacopladores para las entradas de 24V
-    
     - dos optoacopladores para las salidas de 24V
     
   Queda pendiente el tema de los conectores. Si se dejan por separado las entradas y salidas o se unifican.
