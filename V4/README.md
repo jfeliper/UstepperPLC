@@ -1,5 +1,5 @@
 Propuesta de diseño de usteper V4, que le podemos llamar ustepperPLC
-Consta de las 2 placas que ya tenís ustepper v3: 
+Consta de las 2 placas que ya tenía ustepper v3: 
   - la placa inferior con el nano y el sensor AS5600
   - la placa superior con el pololu
  En la v4 necesitamos sitio para los optoacopladores, por lo que pasamos componentes de la placa pololu superior a la placa nano inferior.
